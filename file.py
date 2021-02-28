@@ -4,3 +4,5 @@ for i in range(10):
     print("git is cool")
     
 # did a change in the remote
+# doing the same in the remote
+# here will be a conflict
